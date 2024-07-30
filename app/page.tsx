@@ -1,9 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (
-    <div>
-      <p>hello front the index page</p>
-    </div>
-  );
+  return <div>{/* <p>hello front the index page</p> */}</div>;
 }

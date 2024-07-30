@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const navbarLinks = [
+export const navbarLinks = [
   {
     id: 0,
     name: "Home",
